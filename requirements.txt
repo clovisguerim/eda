@@ -1,0 +1,54 @@
+# PYSPARK
+pyspark==3.0.1
+pyspark-stubs==3.0.0.post1
+
+# VISUALIZATION
+matplotlib~=3.3.3
+seaborn~=0.11.0
+plotly~=4.13.0
+
+# ENCODER
+chardet~=4.0.0
+
+# FRAMEWORKS
+numpy~=1.19.4
+pandas~=1.1.4
+xlrd>=1.0.0
+openpyxl~=3.0.6
+pyarrow~=2.0.0
+scikit-learn~=0.23.2
+dask~=2021.2.0
+dask[dataframe]~=2021.2.0
+statsmodels~=0.12.2
+sktime~=0.5.3
+scipy~=1.5.4
+
+# MODELS
+pygam~=0.8.0
+kneed~=0.7.0
+
+# NLP
+nltk~=3.5
+unidecode~=1.1.1
+python-Levenshtein~=0.12.0
+
+# PYTHON BASE
+setuptools~=50.3.2
+python-dotenv~=0.17.1
+
+# UTILITY
+click~=8.0.1
+tqdm~=4.54.1
+python-dateutil~=2.8.1
+
+# CLOUDS
+boto3~=1.17.92
+
+# JUPYTER
+jupyterlab~=3.0.15
+ipython~=7.23.1
+jedi==0.17.2
+
+#SCRAPER
+requests~=2.26.0
+
